@@ -20,7 +20,7 @@ Este proyecto corresponde al avance del desarrollo del juego **Ahorcado**, aplic
 
 ## 📝 Diagramas de Flujo
 El diagrama base del juego Ahorcado está en la carpeta `/diagramas`.  
-- Archivo RAPTOR: [ahorcado_simple.rap](diagramas/ahorcado_simple.rap)  
+- Archivo RAPTOR: [[ahorcado_simple.rap](diagramas/ahorcado_simple.rap)  ](https://github.com/dagarofalocr-sys/ahorcado/blob/main/Juego%20ahorcado%20Danny%20Garofalo.rap)
 - Imagen (para ver directamente): [ahorcado_simple.png](diagramas/ahorcado_simple.png)  
 
 El diagrama describe:
