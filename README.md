@@ -14,7 +14,7 @@ Este proyecto corresponde al avance del desarrollo del juego **Ahorcado**, aplic
   - `ahorcado_basico.py` → avance de la codificación en Python  
 
 - **/videos/**
-  - `README.txt` → aquí se colocará el link al video explicativo y al video demo  
+  - `README.txt` → aquí se colocará el link al video   
 
 ---
 
