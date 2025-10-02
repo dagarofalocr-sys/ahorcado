@@ -33,7 +33,7 @@ El diagrama describe:
 ---
 
 ## 💻 Avance de Codificación
-Archivo: [ahorcado_basico Danny Garofalo.py](codigo/ahorcado_basico Danny Garofalo.py)  
+Archivo: https://github.com/dagarofalocr-sys/ahorcado/blob/main/ahorcado_basico%20Danny%20Garofalo.py
 
 Este código incluye:
 - Variables iniciales (`palabra`, `mascara`, `intentos`).  
