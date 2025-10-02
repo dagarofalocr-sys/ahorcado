@@ -21,8 +21,7 @@ Este proyecto corresponde al avance del desarrollo del juego **Ahorcado**, aplic
 ## 📝 Diagramas de Flujo
 El diagrama base del juego Ahorcado está en la carpeta `/diagramas`.  
 - Archivo RAPTOR: (https://github.com/dagarofalocr-sys/ahorcado/blob/main/Juego%20ahorcado%20Danny%20Garofalo.rap)
-- Imagen (para ver directamente): [ahorcado_simple.png](diagramas/ahorcado_simple.png)  
-
+- Imagen (para ver directamente): https://github.com/dagarofalocr-sys/ahorcado/blob/main/Diagrama%20de%20procesos%20Danny%20Gar%C3%B3falo.jpg
 El diagrama describe:
 1. Inicialización de variables (`palabra`, `mascara`, `intentos`).  
 2. Entrada de letra por parte del usuario.  
